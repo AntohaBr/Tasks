@@ -1,0 +1,34 @@
+
+
+
+.Button {
+    padding:1px;
+
+}
+
+.delete{
+    padding:1px;
+    background: #fffac5;
+    border-radius: 5px;
+    border-color: rgba(255, 253, 213, 0.67);
+    margin-top: 15px;
+    font-family: Georgia;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+
+}
+
+.buttonClick{
+    background: #fffac5;
+    border-radius: 5px;
+    border-color: rgba(255, 253, 213, 0.67);
+    margin-top: 15px;
+    font-family: Georgia;
+    width: 55px;
+    height: 30px;
+    cursor: pointer;
+}
+
+
+
