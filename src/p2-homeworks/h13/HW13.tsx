@@ -1,5 +1,6 @@
 import React from "react";
-import Request from './Request'
+import {Request} from "./Request";
+
 
 function HW13 () {
     return <div>
